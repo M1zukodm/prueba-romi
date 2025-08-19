@@ -18,7 +18,7 @@ Sistema automatizado para evaluación de síntomas médicos y generación de rec
 
 ## 🛠️ Tecnologías Utilizadas
 
-El stack fue cuidadosamente seleccionado para garantizar rapidez, escalabilidad y una excelente experiencia de usuario en el desarrollo de ROMI Express:
+Las tecnologias usadas fueron cuidadosamente seleccionadas para garantizar rapidez, escalabilidad y una excelente experiencia de usuario en el desarrollo de ROMI Express:
 
 - ⚛️ React 18 + TypeScript → Base del frontend que combina la flexibilidad de React con la robustez de TypeScript, asegurando tipado estricto, menos errores y un flujo de desarrollo más confiable.
 
