@@ -51,20 +51,21 @@ graph TD
     A --> D[assets]
     A --> E[App.tsx]
     
-    B --> B1[/ui/]
+    B --> B1[ui]
     B --> B2[symptom-form.tsx]
     B --> B3[symptom-result.tsx]
     B --> B4[FirestoreDate.tsx]
     
     C --> C1[api.ts]
     
-    style A fill:#2563eb,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#3b82f6,stroke:#333,color:#fff
-    style C fill:#3b82f6,stroke:#333,color:#fff
-    style D fill:#3b82f6,stroke:#333,color:#fff
-    style E fill:#10b981,stroke:#333,color:#fff
-
- ```
+    classDef primary fill:#2563eb,stroke:#333,stroke-width:2px,color:#fff
+    classDef secondary fill:#3b82f6,stroke:#333,color:#fff
+    classDef success fill:#10b981,stroke:#333,color:#fff
+    
+    class A primary
+    class B,C,D secondary
+    class E success
+```
 
 ## 📦 Componentes Clave 
 ### SymptomForm 
