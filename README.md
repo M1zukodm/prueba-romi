@@ -1,7 +1,7 @@
 # ROMI Express - Sistema de Diagnóstico Médico
 
-<div style="text-align: center;">
-  <img src="./src/assets/logo1.png" alt="ROMI Express Logo" width="200" style="max-width: 100%;">
+<div align="center">
+  <img src="./src/assets/logo1.png" alt="ROMI Express Logo" width="200">
 </div>
 
 Sistema automatizado para evaluación de síntomas médicos y generación de recomendaciones preliminares.
