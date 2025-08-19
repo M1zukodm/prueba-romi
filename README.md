@@ -25,25 +25,6 @@ Sistema automatizado para evaluación de síntomas médicos y generación de rec
 - Shadcn
 
 ## 🏗️ Arquitectura del Proyecto
-```mermaid
-graph TD
-    A[src] --> B[components]
-    A --> C[lib]
-    A --> D[assets]
-    A --> E[App.tsx]
-    
-    B --> B1[/ui/]
-    B --> B2[symptom-form.tsx]
-    B --> B3[symptom-result.tsx]
-    B --> B4[FirestoreDate.tsx]
-    
-    C --> C1[api.ts]
-    
-    style A fill:#f9f,stroke:#333
-    style B fill:#bbf,stroke:#333
-    style C fill:#bbf,stroke:#333
-    style D fill:#bbf,stroke:#333
-    style E fill:#bfb,stroke:#333
 
 
 ## 📦 Componentes Clave
