@@ -57,7 +57,7 @@ Sistema automatizado para evaluación de síntomas médicos y generación de rec
 - Instalar dependencias:
   npm install
 
--Ejecutar en desarrollo:
+- Ejecutar en desarrollo:
  npm run dev
  
 - Construir para producción:
