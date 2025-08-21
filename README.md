@@ -22,25 +22,25 @@ Sistema automatizado para evaluación de síntomas médicos y generación de rec
 
 Las tecnologias usadas fueron cuidadosamente seleccionadas para garantizar rapidez, escalabilidad y una excelente experiencia de usuario en el desarrollo de ROMI Express:
 
-- ⚛️ React 18 + TypeScript → Base del frontend que combina la flexibilidad de React con la robustez de TypeScript, asegurando tipado estricto, menos errores y un flujo de desarrollo más confiable.
+-  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /> <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" />  React 18 + TypeScript → Base del frontend que combina la flexibilidad de React con la robustez de TypeScript, asegurando tipado estricto, menos errores y un flujo de desarrollo más confiable.
 
-- 🎨 Tailwind CSS → Framework de estilos utilitario que permite construir interfaces modernas, responsivas y consistentes de manera ágil, manteniendo el código limpio.
+- <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind" /> Tailwind CSS → Framework de estilos utilitario que permite construir interfaces modernas, responsivas y consistentes de manera ágil, manteniendo el código limpio.
 
-- ✨ Lucide React + FontAwesome → Librerías de iconos ligeras y personalizables que mejoran la accesibilidad y refuerzan la comunicación visual de la aplicación.
+- <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /> Lucide React + FontAwesome → Librerías de iconos ligeras y personalizables que mejoran la accesibilidad y refuerzan la comunicación visual de la aplicación.
 
-- ⚡ Vite → Bundler ultrarrápido que acelera la compilación y el hot-reload, optimizando tanto la experiencia de desarrollo como el rendimiento en producción.
+- <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" /> Vite → Bundler ultrarrápido que acelera la compilación y el hot-reload, optimizando tanto la experiencia de desarrollo como el rendimiento en producción.
 
-- 🔥 Firebase → Utilizado para la persistencia de datos y autenticación, ofreciendo una solución en la nube escalable, segura y en tiempo real sin necesidad de configurar servidores complejos.
+- <img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" />  Firebase → Utilizado para la persistencia de datos y autenticación, ofreciendo una solución en la nube escalable, segura y en tiempo real sin necesidad de configurar servidores complejos.
 
-- 🌐 Express → Framework minimalista para el backend que gestiona las rutas y la comunicación entre el cliente y el servidor de manera eficiente.
+- <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /> Express → Framework minimalista para el backend que gestiona las rutas y la comunicación entre el cliente y el servidor de manera eficiente.
 
-- 🟩 Node.js → Entorno de ejecución que permite crear un backend rápido y no bloqueante, ideal para aplicaciones con necesidades de tiempo real.
+- <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJs" /> Node.js → Entorno de ejecución que permite crear un backend rápido y no bloqueante, ideal para aplicaciones con necesidades de tiempo real.
 
-- 💻 JavaScript → Lenguaje base del proyecto, universal y versátil, que garantiza compatibilidad y una amplia comunidad de soporte.
+- <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /> JavaScript → Lenguaje base del proyecto, universal y versátil, que garantiza compatibilidad y una amplia comunidad de soporte.
 
-- 🎛️ Shadcn → Sistema de componentes modernos y accesibles que, junto con Tailwind, permite construir interfaces limpias, coherentes y altamente personalizables.
+- <img src="https://skillicons.dev/icons?i=ts" width="40" alt="Componentes" /> Shadcn → Sistema de componentes modernos y accesibles que, junto con Tailwind, permite construir interfaces limpias, coherentes y altamente personalizables.
 
-En conjunto, este stack proporciona un balance entre desarrollo rápido, diseño atractivo y capacidad de escalar hacia una aplicación robusta para el sector salud.
+En conjunto, este listado proporciona un balance entre desarrollo rápido, diseño atractivo y capacidad de escalar hacia una aplicación robusta para el sector salud.
 
 ---
 
