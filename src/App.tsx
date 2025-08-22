@@ -109,11 +109,11 @@ export default function App() {
   if (showLoadingScreen) {
     return (
       <div className="flex flex-col justify-center items-center h-screen bg-[#bde0fe] p-4">
-        <h1 className="text-3xl font-bold text-[#2a4365] mb-8">ROMI Express</h1>
+        <h1 className="text-3xl font-bold text-[#2a4365] mb-8">Médico Express</h1>
         <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-white shadow-lg mb-6">
           <img 
             src={logo} 
-            alt="ROMI Express"
+            alt="Médico Express"
             className="w-full h-full object-cover"
           />
         </div>
@@ -128,11 +128,11 @@ export default function App() {
   if (loading && !recommendation && patients.length === 0) {
     return (
       <div className="flex flex-col justify-center items-center h-screen bg-[#bde0fe] p-4">
-        <h1 className="text-3xl font-bold text-[#2a4365] mb-8">ROMI Express</h1>
+        <h1 className="text-3xl font-bold text-[#2a4365] mb-8">Médico Express</h1>
         <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-white shadow-lg mb-6">
           <img 
             src={logo} 
-            alt="ROMI Express"
+            alt="Médico Express"
             className="w-full h-full object-cover"
           />
         </div>
@@ -226,7 +226,7 @@ export default function App() {
               </div>
               
               <h1 className="text-2xl md:text-3xl font-bold text-white mb-3">
-                Sistema de Diagnóstico Médico ROMI Express
+                Sistema de Diagnóstico Médico Express
               </h1>
 
               <p className="text-lg text-white opacity-90 text-justify max-w-prose mx-auto leading-relaxed">

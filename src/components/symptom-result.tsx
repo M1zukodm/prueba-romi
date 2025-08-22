@@ -40,12 +40,12 @@ export function SymptomResult({ recommendation, onReset }: SymptomResultProps) {
         <div className="rounded-full border-4 border-white bg-white shadow-lg w-20 h-20 flex items-center justify-center overflow-hidden">
           <img 
             src={logo1} 
-            alt="ROMI Express Logo" 
+            alt="Médico Express Logo" 
             className="w-full h-full object-contain p-1"
           />
         </div>
         <h2 className="text-md font-bold text-[#6096ba] bg-white px-4 py-1 rounded-full shadow-sm">
-          ROMI Express
+          Médico Express
         </h2>
       </div>
 

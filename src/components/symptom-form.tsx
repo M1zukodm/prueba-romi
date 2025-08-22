@@ -87,7 +87,7 @@ export function SymptomForm({ symptoms, onSubmit, loading }: SymptomFormProps) {
       <CardHeader>
         <CardTitle className="text-center flex items-center justify-center gap-2">
           <Stethoscope className="w-5 h-5 text-blue-600" />
-          <span className="text-lg font-semibold">ROMI Express - Registro de Síntomas</span>
+          <span className="text-lg font-semibold">Médico Express - Registro de Síntomas</span>
         </CardTitle>
       </CardHeader>
       
